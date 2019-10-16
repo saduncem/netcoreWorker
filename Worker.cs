@@ -16,6 +16,8 @@ namespace workerproject
 
         public Worker(ILogger<Worker> logger)
         {
+
+            //test
             _logger = logger;
         }
 
